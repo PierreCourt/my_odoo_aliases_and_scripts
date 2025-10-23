@@ -100,17 +100,19 @@ website_js = [  #  --  TODO: remove after 1 year of webpos (February 2026)
 ]
 
 web_pos = [
-    "baar",
-    "lse",
-    "pebr",
-    "jula",
     "pco",
     "thc",
+    "pebr",
+    "orma",
+    "elre",
+    "thsc",
+    "oplo"
 ]
 
 QA = [
     "angv",
     "khah",
+    "kdeb"
 ]
 
 Dubai = [
@@ -153,6 +155,7 @@ other = [
     "mvw",
     "ande",
     "loug",
+    "lse",
     "myah",
     "osah",
     "thsc",
